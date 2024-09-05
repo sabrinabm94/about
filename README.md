@@ -31,12 +31,13 @@ Aualmente ampliando meus conhecimentos em Engenharia de Dados com Python e me de
 &#8226; &#8226; &#8226;
 
 ## 🔭 Habilidades
+Hard and soft skills
 
 ### Resumo de habilidades
 
 ![Resumo técnico](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sabrinabm94&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### 📝 Detalhamento de habilidades
+### 📝 Detalhamento de habilidades (hard skills)
 
 #### Front-End
 
@@ -92,7 +93,7 @@ Aualmente ampliando meus conhecimentos em Engenharia de Dados com Python e me de
 
 &#8226; &#8226; &#8226;
 
-#### Outras Habilidades
+#### Outras Habilidades (soft skills)
 
 - Documentação técnica
 - Análise funcional
